@@ -1,7 +1,7 @@
 # Project: Image Classification with Cifar-10 dataset 
 
 Term: spring 2018
-
++ PPT: https://docs.google.com/presentation/d/1E1fRtmg1nCAM6H1ZLVnYhm_64TdbaOfiNdJLcp2lxWo/edit?usp=sharing
 ### [presentation file](in doc folder and named for each model same with PPT)
 + Team members: Name -- UNI
 	+ Jiansong Chen -- jc4858
