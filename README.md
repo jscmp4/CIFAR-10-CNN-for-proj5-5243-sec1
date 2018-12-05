@@ -2,6 +2,7 @@
 
 Term: spring 2018
 
+### [presentation file](in doc folder and named for each model same with PPT)
 + Team members: Name -- UNI
 	+ Jiansong Chen -- jc4858
   	+ Qiaqia Sun -- qs2184
