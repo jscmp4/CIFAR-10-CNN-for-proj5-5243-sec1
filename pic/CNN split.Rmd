@@ -1,0 +1,20 @@
+---
+title: "CNN gragh"
+author: "Shichao Jia UNI:sj2854"
+date: "2018Äê12ÔÂ5ÈÕ"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+```{r}
+MyData <- read.csv(file="CNN lose and accuracy.csv", header=F, sep=",")
+MyData <- MyData[,1]
+MyData[1,4]
+# gsub("Epoch ","",MyData)
+```
