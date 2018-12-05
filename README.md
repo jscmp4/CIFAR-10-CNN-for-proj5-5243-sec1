@@ -4,7 +4,7 @@ Term: spring 2018
 
 + Team members: Name -- UNI
 	+ Jiansong Chen -- jc4858
-  	+ QiaqIA Sun -- qs2184
+  	+ Qiaqia Sun -- qs2184
   	+ Shichao Jia -- sj2854
 
 + Project summary: In this project, we created an base line model and advanced model to test weather the best fit and accuracy for image classification for Cifar 10 data set.
